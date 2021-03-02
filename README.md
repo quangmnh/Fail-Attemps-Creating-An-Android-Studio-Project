@@ -10,4 +10,6 @@ First created with a lot of error, dem, without C++ support.
 Created with nothing, no activity, can build but what i should do then???
 
 # Test 03
-Created with a basic activity or something.
+Created with a basic activity or something. A bunch of errors
+
+'''Error:(9, 5) error: resource android:attr/dialogCornerRadius not found.'''
