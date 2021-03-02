@@ -8,3 +8,6 @@ First created with a lot of error, dem, without C++ support.
 
 # Test 02
 Created with nothing, no activity, can build but what i should do then???
+
+# Test 03
+Created with a basic activity or something.
