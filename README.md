@@ -42,3 +42,7 @@ So let's try downgrade the ndk thing to 19.xxxxxx
 Then I got an older version of **Android NDK** (16b) and get the **mips64el-linux-android** toolchain to by pass the error. **It works**.
  
  **The thing is**, just **copy** the **mips64el-linux-android** to toolchains folder of ndk and ndk-budle to guaranteed build.
+ 
+ One problem solved so let's move on to test 04 and tracesback to the error...
+ 
+ # Test 04
