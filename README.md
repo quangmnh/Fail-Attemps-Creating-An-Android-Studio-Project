@@ -31,8 +31,14 @@ Then there is this shite
 
 > Error:No toolchains found in the NDK toolchains folder for ABI with prefix: mips64el-linux-android
 
-Tried created a folder named **mips64el-linux-android classpath** in ndk-budle/toolchains folder. Not working
+Tried created a folder named **mips64el-linux-android classpath** in ndk-budle/toolchains folder. **Not working**
 
 Change to this line in build.gradle 'com.android.tools.build:gradle:3.2.1' 
 Still error.
-So let's try downgrade the ndk thing to 19.xxxxxx
+So let's try downgrade the ndk thing to 19.xxxxxx 
+
+**No good**
+
+Then I got an older version of **Android NDK** (16b) and get the **mips64el-linux-android** toolchain to by pass the error. **It works**.
+ 
+ **The thing is**, just **copy** the **mips64el-linux-android** to toolchains folder of ndk and ndk-budle to guaranteed build.
