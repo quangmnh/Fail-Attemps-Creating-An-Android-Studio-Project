@@ -53,3 +53,7 @@ Then I got an older version of **Android NDK** (16b) and get the **mips64el-linu
  So I change compile SDK version in Project Structure to **API 28** and **build tool 30.0.3**, as well as source & target compaiblity as **1.8**
 
 **It sucks**. I don't like this solution at all.
+
+So let's get to test 05 and try something else.
+
+# Test 05
