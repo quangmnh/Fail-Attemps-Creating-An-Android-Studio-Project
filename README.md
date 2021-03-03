@@ -24,3 +24,36 @@ Some bros suggest changing version in **Project Structure** but another error de
 > NDK does not contain any platforms
 
 So the thing is I clicked the install NDK as soon as i saw the pop-up and it automatically installed latest NDK version, which doesn't contain a platform folder???? Anw, installing NDK version 20.0.5594570 or around that does seem to solve the problem. I install the CMake thing too, hopefully it will help me through some other troubles.
+
+Don't forget to change the ndk path in **File/Project Structure
+
+Then there is this shite
+
+> Error:No toolchains found in the NDK toolchains folder for ABI with prefix: mips64el-linux-android
+
+Tried created a folder named **mips64el-linux-android classpath** in ndk-budle/toolchains folder. **Not working**
+
+Change to this line in build.gradle 'com.android.tools.build:gradle:3.2.1' 
+Still error.
+So let's try downgrade the ndk thing to 19.xxxxxx 
+
+**No good**
+
+Then I got an older version of **Android NDK** (16b) and get the **mips64el-linux-android** toolchain to by pass the error. **It works**.
+ 
+ **The thing is**, just **copy** the **mips64el-linux-android** to toolchains folder of ndk and ndk-budle to guaranteed build.
+ 
+ One problem solved so let's move on to test 04 and tracesback to the error...
+ 
+ # Test 04
+ 
+ It says something like 
+ > <!-- We can use the platform styles on API 28+ -->
+ 
+ So I change compile SDK version in Project Structure to **API 28** and **build tool 30.0.3**, as well as source & target compaiblity as **1.8**
+
+**It sucks**. I don't like this solution at all.
+
+So let's get to test 05 and try something else.
+
+# Test 05
