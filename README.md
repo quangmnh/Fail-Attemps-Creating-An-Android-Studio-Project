@@ -46,3 +46,10 @@ Then I got an older version of **Android NDK** (16b) and get the **mips64el-linu
  One problem solved so let's move on to test 04 and tracesback to the error...
  
  # Test 04
+ 
+ It says something like 
+ > <!-- We can use the platform styles on API 28+ -->
+ 
+ So I change compile SDK version in Project Structure to API 28 and  build tool 30.0.3, as well as source & target compaiblity as 1.8
+
+**It sucks**. I don't like this solution at all.
