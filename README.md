@@ -57,3 +57,9 @@ Then I got an older version of **Android NDK** (16b) and get the **mips64el-linu
 So let's get to test 05 and try something else.
 
 # Test 05
+I love **C++** so let give it a try.
+then there is this shite
+>Error:Error occurred while communicating with CMake server. 
+It gets sth to do with CMake, version concern again.
+
+Re-install it with the **3.6.4111459** does the trick.
