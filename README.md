@@ -63,3 +63,15 @@ then there is this shite
 It gets sth to do with CMake, version concern again.
 
 Re-install it with the **3.6.4111459** does the trick.
+
+# Test 06
+Let's try Mr.Thien tutorial.
+
+Everything seem to work as expected, except that he somehow miraculously bypasses all those errors without doing anything specific. So i still resort to solve the problems as above.
+
+He also mentions crating a virrtual device for testing. I choose to create a **Google Pixel 2** device and **API 28**. It works and we finally reach the first stage of Programming - **Hello World**. But, **as expected**, errors come and laugh at me.
+
+> Emulator: handleCpuAcceleration: feature check for hvf
+> Emulator: added library vulkan-1.dll
+
+The solution on developer.android.com is a **wall of text** and also a pain in the @ss to read.
