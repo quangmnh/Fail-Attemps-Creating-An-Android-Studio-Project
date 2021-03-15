@@ -75,3 +75,21 @@ He also mentions crating a virrtual device for testing. I choose to create a **G
 > Emulator: added library vulkan-1.dll
 
 The solution on developer.android.com is a **wall of text** and also a pain in the @ss to read.
+
+# Test 07
+
+Calculator exampler by Mr. Nhan
+Set compileSDKversion in guild gradle to 28
+Theme error: android:theme="@style/AppTheme"> in android manifest file
+Ctrl+click it get me to 
+Add Base.
+<style name="AppTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+fracment????
+intentional errror for the app to reset??
+ uses permission befor <application> in manifest
+ Java inheritence:
+     + Extend: inherit only one parent #overide Ctrl+O -
+
+XML: 
+     +LinearLayout: android:orientation="vertical" 
+     +Child layout: 
