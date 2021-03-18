@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.quangminh.myapplication.MainActivity"
+    android:orientation="vertical">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:id="@+id/txtA"
+        android:textSize="70dp"
+        android:gravity="center_vertical|end"
+        android:text="1"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textSize="70dp"
+        android:gravity="center_vertical|end"
+        android:id="@+id/txtB"
+        android:text="1"/>
+
+    <TextView
+        android:id="@+id/txtC"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textSize="70dp"
+        android:gravity="center_vertical|end"
+        android:text="3" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.5"
+        android:id="@+id/btnAdd"
+        android:text="Cộng" />
+
+
+
+</LinearLayout>
