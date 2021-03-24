@@ -117,7 +117,7 @@ Root should be the user, group kvm.
 >grep kvm /etc/group
 
 The return message should be like
->kvm:x:127:
+>kvm: x :127:
 
 No user in kvm group, hence the AVD begged us to grant user to the group.
 >sudo adduser $USER kvm
