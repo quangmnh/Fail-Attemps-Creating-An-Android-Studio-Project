@@ -93,3 +93,37 @@ intentional errror for the app to reset??
 XML: 
      +LinearLayout: android:orientation="vertical" 
      +Child layout: 
+
+# Test 08
+
+Lab 2 by Mr. Thien
+Simple add function, nothing special.
+
+# Test 07 Revisited
+
+I try to work out how to do Android Studio in Ubuntu environment.
+Tutorial is clear enough, nothing special happened.
+**Except**, as expected, something odd with the AVD.
+>grant current user access to /dev/kvm
+
+No further instruction given, fuk. 
+So, the solution. First, install qemu-kvm
+>sudo apt install qemu-kvm
+
+>ls -al /dev/kvm
+
+Root should be the user, group kvm.
+>grep kvm /etc/group
+
+The return message should be like
+>kvm:x:127:
+
+No user in kvm group, hence the AVD begged us to grant user to the group.
+>sudo adduser $USER kvm
+
+This should do the trick.
+Check again
+>grep kvm /etc/group
+
+Your user name should be there.
+Log out and log in again for the change tyo tak effect.
