@@ -83,10 +83,11 @@ Set compileSDKversion in guild gradle to 28
 Theme error: android:theme="@style/AppTheme"> in android manifest file
 Ctrl+click it get me to 
 Add Base.
-<style name="AppTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+>style name="AppTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar"
 fracment????
-intentional errror for the app to reset??
- uses permission befor <application> in manifest
+
+Intentional errror for the app to reset??
+ uses permission befor application in manifest
  Java inheritence:
      + Extend: inherit only one parent #overide Ctrl+O -
 
