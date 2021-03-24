@@ -103,11 +103,14 @@ Simple add function, nothing special.
 # Test 07 Revisited
 
 I try to work out how to do Android Studio in Ubuntu environment.
+
 Tutorial is clear enough, nothing special happened.
+
 **Except**, as expected, something odd with the AVD.
 >grant current user access to /dev/kvm
 
 No further instruction given, fuk. 
+
 So, the solution. First, install qemu-kvm
 >sudo apt install qemu-kvm
 
@@ -123,8 +126,10 @@ No user in kvm group, hence the AVD begged us to grant user to the group.
 >sudo adduser $USER kvm
 
 This should do the trick.
+
 Check again
 >grep kvm /etc/group
 
 Your user name should be there.
-Log out and log in again for the change tyo tak effect.
+
+Log out and log in again for the change to take effect.
