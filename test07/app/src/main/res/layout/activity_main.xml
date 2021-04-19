@@ -24,7 +24,7 @@
             android:textSize="60sp"
             android:textStyle="bold"
             android:textColor="#ffffff"
-            android:gravity="start|top"/>
+            android:gravity="end|top"/>
         <TextView
             android:id="@+id/txtOutLower"
             android:layout_width="match_parent"
@@ -52,6 +52,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:text="AC"
+                android:scaleX="0.75"
+                android:scaleY="0.8"
+                android:background="@drawable/round2"
                 android:textSize="35sp"/>
         </LinearLayout>
 
@@ -64,6 +67,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:text="Del"
+                android:scaleX="0.75"
+                android:scaleY="0.8"
+                android:background="@drawable/round2"
                 android:textSize="35sp"/>
         </LinearLayout>
 
@@ -76,6 +82,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:text="%"
+                android:scaleX="0.75"
+                android:scaleY="0.8"
+                android:background="@drawable/round2"
                 android:textSize="35sp"/>
         </LinearLayout>
 
@@ -88,6 +97,10 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:text="/"
+                android:scaleX="0.75"
+                android:scaleY="0.8"
+                android:background="@drawable/round"
+                android:textColor="#ffffff"
                 android:textSize="35sp"/>
         </LinearLayout>
     </LinearLayout>
@@ -102,6 +115,9 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
+            android:scaleX="0.75"
+            android:scaleY="0.8"
+            android:background="@drawable/round2"
             android:text="7"
             android:textSize="35sp"/>
         <Button
@@ -110,11 +126,17 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="8"
+            android:scaleX="0.75"
+            android:scaleY="0.8"
+            android:background="@drawable/round2"
             android:textSize="35sp"/>
         <Button
             android:id="@+id/btn9"
             android:layout_width="0dp"
             android:layout_height="match_parent"
+            android:scaleX="0.75"
+            android:scaleY="0.8"
+            android:background="@drawable/round2"
             android:layout_weight="1"
             android:text="9"
             android:textSize="35sp"/>
@@ -124,6 +146,10 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="*"
+            android:scaleX="0.75"
+            android:scaleY="0.8"
+            android:background="@drawable/round"
+            android:textColor="#ffffff"
             android:textSize="35sp"/>
     </LinearLayout>
 
@@ -138,6 +164,9 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="4"
+            android:scaleX="0.75"
+            android:scaleY="0.8"
+            android:background="@drawable/round2"
             android:textSize="35sp"/>
         <Button
             android:id="@+id/btn5"
@@ -145,6 +174,9 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="5"
+            android:scaleX="0.75"
+            android:scaleY="0.8"
+            android:background="@drawable/round2"
             android:textSize="35sp"/>
         <Button
             android:id="@+id/btn6"
@@ -152,6 +184,9 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="6"
+            android:scaleX="0.75"
+            android:scaleY="0.8"
+            android:background="@drawable/round2"
             android:textSize="35sp"/>
         <Button
             android:id="@+id/btnAdd"
@@ -159,6 +194,10 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="+"
+            android:scaleX="0.75"
+            android:scaleY="0.8"
+            android:background="@drawable/round"
+            android:textColor="#ffffff"
             android:textSize="35sp"/>
     </LinearLayout>
     <LinearLayout
@@ -172,6 +211,9 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="1"
+            android:scaleX="0.75"
+            android:scaleY="0.8"
+            android:background="@drawable/round2"
             android:textSize="35sp"/>
         <Button
             android:id="@+id/btn2"
@@ -179,6 +221,9 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="2"
+            android:scaleX="0.75"
+            android:scaleY="0.8"
+            android:background="@drawable/round2"
             android:textSize="35sp"/>
         <Button
             android:id="@+id/btn3"
@@ -186,6 +231,9 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="3"
+            android:scaleX="0.75"
+            android:scaleY="0.8"
+            android:background="@drawable/round2"
             android:textSize="35sp"/>
         <Button
             android:id="@+id/btnMinus"
@@ -193,6 +241,10 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="-"
+            android:scaleX="0.75"
+            android:scaleY="0.8"
+            android:background="@drawable/round"
+            android:textColor="#ffffff"
             android:textSize="35sp"/>
     </LinearLayout>
     <LinearLayout
@@ -201,18 +253,14 @@
         android:layout_weight="1"
         android:background="#000000">
         <Button
-            android:id="@+id/btnSign"
-            android:layout_width="0dp"
-            android:layout_height="match_parent"
-            android:layout_weight="1"
-            android:text="+/-"
-            android:textSize="35sp"/>
-        <Button
             android:id="@+id/btn0"
             android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:layout_weight="1"
+            android:layout_weight="2"
             android:text="0"
+            android:scaleX="0.9"
+            android:scaleY="0.8"
+            android:background="@drawable/rect"
             android:textSize="35sp"/>
         <Button
             android:id="@+id/btnDot"
@@ -220,6 +268,9 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="."
+            android:scaleX="0.75"
+            android:scaleY="0.8"
+            android:background="@drawable/round2"
             android:textSize="35sp"/>
         <Button
             android:id="@+id/btnEqual"
@@ -227,6 +278,11 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="="
+
+            android:scaleX="0.75"
+            android:scaleY="0.8"
+            android:background="@drawable/round"
+            android:textColor="#ffffff"
             android:textSize="35sp"/>
     </LinearLayout>
 

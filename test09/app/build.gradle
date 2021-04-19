@@ -3,11 +3,11 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.example.quangminh.calculator"
+        applicationId "com.example.quangminh.myapplication"
         minSdkVersion 19
         targetSdkVersion 26
         versionCode 1
-        versionName "Beta test 1.0"
+        versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
@@ -21,14 +21,14 @@ android {
             maven { url 'https://jitpack.io'}
         }
     }
+
 }
-
-
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation 'com.android.support:appcompat-v7:26.1.0'
     implementation 'com.android.support.constraint:constraint-layout:2.0.4'
+    implementation 'com.squareup.okhttp:okhttp:2.4.0'
     compile 'com.github.mik3y:usb-serial-for-android:2.+'
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'

@@ -95,6 +95,7 @@ XML:
      +LinearLayout: android:orientation="vertical" 
      +Child layout: 
 
+<<<<<<< Updated upstream
 # Test 08
 
 Lab 2 by Mr. Thien
@@ -133,3 +134,21 @@ Check again
 Your user name should be there.
 
 Log out and log in again for the change to take effect.
+=======
+# Test 09
+UART/thingspeak communication
+LeanBack UI
+
+
+
+
+# Test 10
+
+MQTT---MQTT broker check for allsubscribed clients. (for a topic/feed)
+
+Client ID should be phone series + key word -->MD5
+
+This is a sample code for MQTT server connection.
+
+Till this day, everything works as expected. I feel like i can do anything now.
+>>>>>>> Stashed changes
