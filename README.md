@@ -95,7 +95,6 @@ XML:
      +LinearLayout: android:orientation="vertical" 
      +Child layout: 
 
-<<<<<<< Updated upstream
 # Test 08
 
 Lab 2 by Mr. Thien
@@ -133,8 +132,7 @@ Check again
 
 Your user name should be there.
 
-Log out and log in again for the change to take effect.
-=======
+
 # Test 09
 UART/thingspeak communication
 LeanBack UI
