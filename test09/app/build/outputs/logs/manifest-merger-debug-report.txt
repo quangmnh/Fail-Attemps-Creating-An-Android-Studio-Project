@@ -1,0 +1,181 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.github.mik3y:usb-serial-for-android:2.3.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\usb-serial-for-android-2.3.0.aar\e8ca9e65d84f87bf0daaa0554594a00e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\constraint-layout-2.0.4.aar\61d19d845c7a82aefceeb36e9b50c477\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\76227904d8a651585156af2271da8bed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\918fc3382212e51b4fe4940a7c3d4ce4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\d4136f70237ba2eaf4c721f8382b397c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\1ea5b98c1a8c6b9447dceb041b3abae0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\17f3ce6b78c27b8d177656c1659e647c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\608599f963e939b128e8ea30aba41059\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\d2078ea3368d360c62a0b6ed7008b9e7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\b342e1a751e15c7bd41ba2589160de2f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\a18d9f99377916dd04f6e10908a28390\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\1bb54e52cac44d2d2f8d1cd4dc007431\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\354b5c2ec6e396115e2b377f9a86fe97\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b23355e4cc13bb4c89b18ecc8701338c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\bf5a92d537346473c6148968bc761105\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\9e49074c7b75fbe9843c28c5f893c42b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\107edfcdfb5f329d2c79546e540ccd2b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1c4830c54717c189646fa7decf08fb4a\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a0583394e612cc24cdecc5879f7a98a2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\a08fd7e9ce23dab3a79770d70dc69987\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\3a581d1a0511b14e86c47c9b807e6f79\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\07dfaf1e501658a7087d8d4aff567b2d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\fb65e6702cb7047ea7a01e5d5da228fd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\07d498d858d6375e1ef3c46825f2a795\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\05c14b3014a2ea5f66f8d2d750f253bf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\903240a8897444a2b0303463d6bfe518\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e4fecaa675fb8482e185c40767239fa8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\c847adea1020e260c348411087fa8644\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml
+		INJECTED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml
+		ADDED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml
+		ADDED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.usb.host
+ADDED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml:4:5-62
+	android:name
+		ADDED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml:4:19-59
+uses-permission#android.permission.USB_PERMISSION
+ADDED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml:5:5-73
+	android:name
+		ADDED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml:5:22-70
+uses-permission#android.permission.INTERNET
+ADDED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml:8:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\constraint-layout-2.0.4.aar\61d19d845c7a82aefceeb36e9b50c477\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\constraint-layout-2.0.4.aar\61d19d845c7a82aefceeb36e9b50c477\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\107edfcdfb5f329d2c79546e540ccd2b\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\107edfcdfb5f329d2c79546e540ccd2b\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1c4830c54717c189646fa7decf08fb4a\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1c4830c54717c189646fa7decf08fb4a\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\107edfcdfb5f329d2c79546e540ccd2b\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.quangminh.myapplication.MainActivity
+ADDED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml:15:9-27:20
+	android:name
+		ADDED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml:19:27-74
+intent-filter#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml:21:13-23:29
+action#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml:22:17-90
+	android:name
+		ADDED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml:22:25-87
+meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml:24:13-26:57
+	android:resource
+		ADDED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml:26:17-54
+	android:name
+		ADDED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml:25:17-79
+uses-sdk
+INJECTED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml
+INJECTED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml
+MERGED from [com.github.mik3y:usb-serial-for-android:2.3.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\usb-serial-for-android-2.3.0.aar\e8ca9e65d84f87bf0daaa0554594a00e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.mik3y:usb-serial-for-android:2.3.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\usb-serial-for-android-2.3.0.aar\e8ca9e65d84f87bf0daaa0554594a00e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\constraint-layout-2.0.4.aar\61d19d845c7a82aefceeb36e9b50c477\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\constraint-layout-2.0.4.aar\61d19d845c7a82aefceeb36e9b50c477\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\76227904d8a651585156af2271da8bed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\76227904d8a651585156af2271da8bed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\918fc3382212e51b4fe4940a7c3d4ce4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\918fc3382212e51b4fe4940a7c3d4ce4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\d4136f70237ba2eaf4c721f8382b397c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\d4136f70237ba2eaf4c721f8382b397c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\1ea5b98c1a8c6b9447dceb041b3abae0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\1ea5b98c1a8c6b9447dceb041b3abae0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\17f3ce6b78c27b8d177656c1659e647c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\17f3ce6b78c27b8d177656c1659e647c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\608599f963e939b128e8ea30aba41059\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\608599f963e939b128e8ea30aba41059\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\d2078ea3368d360c62a0b6ed7008b9e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\d2078ea3368d360c62a0b6ed7008b9e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\b342e1a751e15c7bd41ba2589160de2f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\b342e1a751e15c7bd41ba2589160de2f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\a18d9f99377916dd04f6e10908a28390\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\a18d9f99377916dd04f6e10908a28390\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\1bb54e52cac44d2d2f8d1cd4dc007431\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\1bb54e52cac44d2d2f8d1cd4dc007431\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\354b5c2ec6e396115e2b377f9a86fe97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\354b5c2ec6e396115e2b377f9a86fe97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b23355e4cc13bb4c89b18ecc8701338c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b23355e4cc13bb4c89b18ecc8701338c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\bf5a92d537346473c6148968bc761105\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\bf5a92d537346473c6148968bc761105\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\9e49074c7b75fbe9843c28c5f893c42b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\9e49074c7b75fbe9843c28c5f893c42b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\107edfcdfb5f329d2c79546e540ccd2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\107edfcdfb5f329d2c79546e540ccd2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1c4830c54717c189646fa7decf08fb4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1c4830c54717c189646fa7decf08fb4a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a0583394e612cc24cdecc5879f7a98a2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a0583394e612cc24cdecc5879f7a98a2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\a08fd7e9ce23dab3a79770d70dc69987\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\a08fd7e9ce23dab3a79770d70dc69987\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\3a581d1a0511b14e86c47c9b807e6f79\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\3a581d1a0511b14e86c47c9b807e6f79\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\07dfaf1e501658a7087d8d4aff567b2d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\07dfaf1e501658a7087d8d4aff567b2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\fb65e6702cb7047ea7a01e5d5da228fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\fb65e6702cb7047ea7a01e5d5da228fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\07d498d858d6375e1ef3c46825f2a795\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\07d498d858d6375e1ef3c46825f2a795\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\05c14b3014a2ea5f66f8d2d750f253bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\05c14b3014a2ea5f66f8d2d750f253bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\903240a8897444a2b0303463d6bfe518\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\903240a8897444a2b0303463d6bfe518\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e4fecaa675fb8482e185c40767239fa8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e4fecaa675fb8482e185c40767239fa8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\c847adea1020e260c348411087fa8644\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Quang Minh\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\c847adea1020e260c348411087fa8644\AndroidManifest.xml:20:5-44
+INJECTED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml
+INJECTED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml
+		ADDED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml
+		INJECTED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml
+		ADDED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml
+		INJECTED from D:\BT\202\IoT\alotoftest\test09\app\src\main\AndroidManifest.xml
